@@ -5,5 +5,3 @@
 - 📫 How to reach me: jeressia@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm a former spelling bee champion.
-
-[![Jeressia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeressia)]
